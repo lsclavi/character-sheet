@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+
+.CharacterName input {
+  text-align: center;
+}
+
+.AbilityScoreContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.AbilityScore {
+  margin: 20px;
+}
+
+.AbilityScore input {
+  width: 25px;
+  text-align: center;
+}
